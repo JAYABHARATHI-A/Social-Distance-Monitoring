@@ -7,3 +7,6 @@ The proposed tool has following features:
       Identify humans in the frame with yolov3 (You Only Look Once).
       Calculates the distance among individuals who are identified in the frame.
       Shows the number of people who are at ‘High risk’, ‘Low risk’ and ‘Not at risk’
+
+**Download the Yolo weights (https://pjreddie.com/media/files/yolov3.weights) and move it to SocialDistanceMonitoring/Model directory**
+
